@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "cloverx": "^1.1.4",
-    "lodash": "^4.17.3",
+    "lodash": "^4.17.19",
     "moment": "^2.17.1",
     "pinyin": "^2.8.0",
     "socket.io": "^1.7.2",
